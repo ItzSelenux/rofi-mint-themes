@@ -17,6 +17,9 @@
  cd rofi-mint-themes
  ```
  ```
+ chmod +x install
+ ```
+ ```
  ./install
  ```
 After this you will be asked what components you want to install, here you can choose what you want
@@ -56,7 +59,10 @@ Done
 
 You can install *rofi-mint-themes* downloading the code on a ZIP file and following the next steps
 
-After you have downloaded the ZIP file, extract the file and open a terminal inside the code folder and execute the next command
+After you have downloaded the ZIP file, extract the file and open a terminal inside the code folder and execute the next commands
+```
+chmod +x install uninstall
+```
 ```
 ./install
 ```
