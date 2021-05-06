@@ -22,7 +22,7 @@ rm ~/.local/share/rofi/themes/Mint-Y-Light-Purple.rasi &
 rm ~/.local/share/rofi/themes/Mint-Y-Light-Red.rasi &
 rm ~/.local/share/rofi/themes/Mint-Y-Light-Sand.rasi &
 rm ~/.local/share/rofi/themes/Mint-Y-Light-Teal.rasi &
-echo Done, the Mint-Y theme has gone
+echo Done, the Rofi Mint-Y theme has gone
 
 
 
