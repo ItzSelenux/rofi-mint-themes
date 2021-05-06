@@ -17,7 +17,7 @@
  cd rofi-mint-themes
  ```
  ```
- chmod +x install
+ chmod +x install uninstall
  ```
  ```
  ./install
